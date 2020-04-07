@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">p1</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button">Button</string>
+</resources>
